@@ -1,0 +1,17 @@
+node_modules
+.venv
+backend/.venv
+frontend/node_modules
+backup.sql
+sample_data
+docs
+*.pyc
+__pycache__
+.git
+.vercel
+backend/logs
+backend/media
+backend/ml_models
+backend/test_ml_models
+tests
+.pytest_cache
